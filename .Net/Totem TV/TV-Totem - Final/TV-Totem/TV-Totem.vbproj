@@ -1,0 +1,387 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{88C5D6AF-C532-44C2-A23C-AD56F24FD104}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>TV_Totem.My.MyApplication</StartupObject>
+    <RootNamespace>TV_Totem</RootNamespace>
+    <AssemblyName>TV-Totem</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>TV-Totem.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>TV-Totem.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Windows\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cadEventoNome.Designer.vb">
+      <DependentUpon>cadEventoNome.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cadEventoNome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cadSalaNome.Designer.vb">
+      <DependentUpon>cadSalaNome.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cadSalaNome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DadosDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DadosDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DadosDataSet.vb">
+      <DependentUpon>DadosDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DadosDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DadosDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DadosDataSet2.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DadosDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DadosDataSet3.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DadosDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DadosDataSet4.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DadosDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DadosDataSet5.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DadosDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DadosDataSet6.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DadosDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DadosDataSet7.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DadosDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DadosDataSet8.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DadosDataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="enviarTV.Designer.vb">
+      <DependentUpon>enviarTV.vb</DependentUpon>
+    </Compile>
+    <Compile Include="enviarTV.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImagemTotem1.Designer.vb">
+      <DependentUpon>ImagemTotem1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ImagemTotem1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="novoEvento.Designer.vb">
+      <DependentUpon>novoEvento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="novoEvento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.vb">
+      <DependentUpon>Principal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="cadEventoNome.resx">
+      <DependentUpon>cadEventoNome.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cadSalaNome.resx">
+      <DependentUpon>cadSalaNome.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="enviarTV.resx">
+      <DependentUpon>enviarTV.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImagemTotem1.resx">
+      <DependentUpon>ImagemTotem1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="novoEvento.resx">
+      <DependentUpon>novoEvento.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="DadosDataSet.xsc">
+      <DependentUpon>DadosDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DadosDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DadosDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DadosDataSet.xss">
+      <DependentUpon>DadosDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DadosDataSet1.xsc">
+      <DependentUpon>DadosDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DadosDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DadosDataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DadosDataSet1.xss">
+      <DependentUpon>DadosDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DadosDataSet2.xsc">
+      <DependentUpon>DadosDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DadosDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DadosDataSet2.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DadosDataSet2.xss">
+      <DependentUpon>DadosDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DadosDataSet3.xsc">
+      <DependentUpon>DadosDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="DadosDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DadosDataSet3.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DadosDataSet3.xss">
+      <DependentUpon>DadosDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="DadosDataSet4.xsc">
+      <DependentUpon>DadosDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="DadosDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DadosDataSet4.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DadosDataSet4.xss">
+      <DependentUpon>DadosDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="DadosDataSet5.xsc">
+      <DependentUpon>DadosDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="DadosDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DadosDataSet5.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DadosDataSet5.xss">
+      <DependentUpon>DadosDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="DadosDataSet6.xsc">
+      <DependentUpon>DadosDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="DadosDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DadosDataSet6.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DadosDataSet6.xss">
+      <DependentUpon>DadosDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="DadosDataSet7.xsc">
+      <DependentUpon>DadosDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="DadosDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DadosDataSet7.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DadosDataSet7.xss">
+      <DependentUpon>DadosDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="DadosDataSet8.xsc">
+      <DependentUpon>DadosDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="DadosDataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DadosDataSet8.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DadosDataSet8.xss">
+      <DependentUpon>DadosDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Dados.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\8Evento1.png" />
+    <None Include="Resources\8Treinamento.jpg" />
+    <None Include="Resources\7Treinamento.jpg" />
+    <None Include="Resources\6Treinamento.jpg" />
+    <None Include="Resources\5Treinamento.jpg" />
+    <None Include="Resources\4Treinamento.jpg" />
+    <None Include="Resources\3Treinamento.jpg" />
+    <None Include="Resources\2Treinamento.jpg" />
+    <None Include="Resources\1Treinamento.jpg" />
+    <None Include="Resources\8Evento.png" />
+    <None Include="Resources\7Evento.png" />
+    <None Include="Resources\6Evento.png" />
+    <None Include="Resources\5Evento.png" />
+    <None Include="Resources\4Evento.png" />
+    <None Include="Resources\3Evento.png" />
+    <None Include="Resources\2Evento.png" />
+    <None Include="Resources\1Evento.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

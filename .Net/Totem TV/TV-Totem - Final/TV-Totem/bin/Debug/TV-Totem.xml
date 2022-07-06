@@ -1,0 +1,696 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TV-Totem
+</name>
+</assembly>
+<members>
+<member name="T:TV_Totem.DadosDataSet3.EventosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet3.SalasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet3.EventosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet3.SalasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet3.EventosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet3.SalasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet3TableAdapters.EventosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet3TableAdapters.SalasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(TV_Totem.DadosDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(TV_Totem.DadosDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(TV_Totem.DadosDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet3TableAdapters.TableAdapterManager.UpdateAll(TV_Totem.DadosDataSet3)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet3TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet6.EventosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet6.SalasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet6.EventosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet6.SalasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet6.EventosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet6.SalasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet6">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet6TableAdapters.EventosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet6TableAdapters.SalasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet6TableAdapters.TableAdapterManager.UpdateUpdatedRows(TV_Totem.DadosDataSet6,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet6TableAdapters.TableAdapterManager.UpdateInsertedRows(TV_Totem.DadosDataSet6,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet6TableAdapters.TableAdapterManager.UpdateDeletedRows(TV_Totem.DadosDataSet6,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet6TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet6TableAdapters.TableAdapterManager.UpdateAll(TV_Totem.DadosDataSet6)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet6TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet6TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet6TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:TV_Totem.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:TV_Totem.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:TV_Totem.My.Resources.Resources._1Evento">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TV_Totem.My.Resources.Resources._1Treinamento">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TV_Totem.My.Resources.Resources._2Evento">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TV_Totem.My.Resources.Resources._2Treinamento">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TV_Totem.My.Resources.Resources._3Evento">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TV_Totem.My.Resources.Resources._3Treinamento">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TV_Totem.My.Resources.Resources._4Evento">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TV_Totem.My.Resources.Resources._4Treinamento">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TV_Totem.My.Resources.Resources._5Evento">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TV_Totem.My.Resources.Resources._5Treinamento">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TV_Totem.My.Resources.Resources._6Evento">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TV_Totem.My.Resources.Resources._6Treinamento">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TV_Totem.My.Resources.Resources._7Evento">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TV_Totem.My.Resources.Resources._7Treinamento">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:TV_Totem.My.Resources.Resources._8Treinamento">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:TV_Totem.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet.EventosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet.SalasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet.EventosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet.SalasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet.EventosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet.SalasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSetTableAdapters.EventosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSetTableAdapters.SalasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(TV_Totem.DadosDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(TV_Totem.DadosDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(TV_Totem.DadosDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:TV_Totem.DadosDataSetTableAdapters.TableAdapterManager.UpdateAll(TV_Totem.DadosDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:TV_Totem.DadosDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:TV_Totem.DadosDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet2.EventosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet2.SalasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet2.EventosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet2.SalasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet2.EventosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet2.SalasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet2TableAdapters.EventosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet2TableAdapters.SalasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(TV_Totem.DadosDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(TV_Totem.DadosDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(TV_Totem.DadosDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet2TableAdapters.TableAdapterManager.UpdateAll(TV_Totem.DadosDataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet5.EventosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet5.SalasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet5.EventosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet5.SalasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet5.EventosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet5.SalasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet5">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet5TableAdapters.EventosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet5TableAdapters.SalasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet5TableAdapters.TableAdapterManager.UpdateUpdatedRows(TV_Totem.DadosDataSet5,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet5TableAdapters.TableAdapterManager.UpdateInsertedRows(TV_Totem.DadosDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet5TableAdapters.TableAdapterManager.UpdateDeletedRows(TV_Totem.DadosDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet5TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet5TableAdapters.TableAdapterManager.UpdateAll(TV_Totem.DadosDataSet5)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet5TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet5TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet5TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet8.EventosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet8.SalasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet8.EventosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet8.SalasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet8.EventosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet8.SalasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet8">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet8TableAdapters.EventosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet8TableAdapters.SalasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet8TableAdapters.TableAdapterManager.UpdateUpdatedRows(TV_Totem.DadosDataSet8,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet8TableAdapters.TableAdapterManager.UpdateInsertedRows(TV_Totem.DadosDataSet8,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet8TableAdapters.TableAdapterManager.UpdateDeletedRows(TV_Totem.DadosDataSet8,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet8TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet8TableAdapters.TableAdapterManager.UpdateAll(TV_Totem.DadosDataSet8)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet8TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet8TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet8TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet1.EventosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet1.SalasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet1.EventosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet1.SalasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet1.EventosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet1.SalasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet1TableAdapters.EventosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet1TableAdapters.SalasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(TV_Totem.DadosDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(TV_Totem.DadosDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(TV_Totem.DadosDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet1TableAdapters.TableAdapterManager.UpdateAll(TV_Totem.DadosDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet4.EventosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet4.SalasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet4.EventosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet4.SalasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet4.EventosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet4.SalasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet4">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet4TableAdapters.EventosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet4TableAdapters.SalasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet4TableAdapters.TableAdapterManager.UpdateUpdatedRows(TV_Totem.DadosDataSet4,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet4TableAdapters.TableAdapterManager.UpdateInsertedRows(TV_Totem.DadosDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet4TableAdapters.TableAdapterManager.UpdateDeletedRows(TV_Totem.DadosDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet4TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet4TableAdapters.TableAdapterManager.UpdateAll(TV_Totem.DadosDataSet4)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet4TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet4TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet4TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet7.EventosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet7.SalasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet7.EventosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet7.SalasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet7.EventosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet7.SalasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet7">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet7TableAdapters.EventosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet7TableAdapters.SalasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet7TableAdapters.TableAdapterManager.UpdateUpdatedRows(TV_Totem.DadosDataSet7,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet7TableAdapters.TableAdapterManager.UpdateInsertedRows(TV_Totem.DadosDataSet7,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet7TableAdapters.TableAdapterManager.UpdateDeletedRows(TV_Totem.DadosDataSet7,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet7TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:TV_Totem.DadosDataSet7TableAdapters.TableAdapterManager.UpdateAll(TV_Totem.DadosDataSet7)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet7TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet7TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:TV_Totem.DadosDataSet7TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

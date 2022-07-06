@@ -1,0 +1,97 @@
+C:\Users\hellysson.HOME\Documents\Visual Studio 2008\Projects\TV-Totem\TV-Totem\bin\Debug\TV-Totem.exe
+C:\Users\hellysson.HOME\Documents\Visual Studio 2008\Projects\TV-Totem\TV-Totem\bin\Debug\TV-Totem.pdb
+C:\Users\hellysson.HOME\Documents\Visual Studio 2008\Projects\TV-Totem\TV-Totem\bin\Debug\TV-Totem.xml
+C:\Users\hellysson.HOME\Documents\Visual Studio 2008\Projects\TV-Totem\TV-Totem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hellysson.HOME\Documents\Visual Studio 2008\Projects\TV-Totem\TV-Totem\obj\Debug\TV_Totem.Resources.resources
+C:\Users\hellysson.HOME\Documents\Visual Studio 2008\Projects\TV-Totem\TV-Totem\obj\Debug\TV-Totem.vbproj.GenerateResource.Cache
+C:\Users\hellysson.HOME\Documents\Visual Studio 2008\Projects\TV-Totem\TV-Totem\obj\Debug\TV-Totem.exe
+C:\Users\hellysson.HOME\Documents\Visual Studio 2008\Projects\TV-Totem\TV-Totem\obj\Debug\TV-Totem.xml
+C:\Users\hellysson.HOME\Documents\Visual Studio 2008\Projects\TV-Totem\TV-Totem\obj\Debug\TV-Totem.pdb
+C:\Users\hellysson.HOME\Documents\Visual Studio 2008\Projects\TV-Totem\TV-Totem\obj\Debug\TV_Totem.Principal.resources
+C:\Users\hellysson.HOME\Documents\Visual Studio 2008\Projects\TV-Totem\TV-Totem\bin\Debug\Dados.accdb
+C:\Users\hellysson.HOME\Documents\Visual Studio 2008\Projects\TV-Totem\TV-Totem\bin\Debug\TV-Totem.exe.config
+C:\Users\hellysson.HOME\Documents\Visual Studio 2008\Projects\TV-Totem\TV-Totem\obj\Debug\TV_Totem.cadastroSala.resources
+C:\Users\hellysson.HOME\Documents\Visual Studio 2008\Projects\TV-Totem\TV-Totem\obj\Debug\TV_Totem.cadastroNome.resources
+C:\Users\hellysson.HOME\Documents\Visual Studio 2008\Projects\TV-Totem\TV-Totem\obj\Debug\TV_Totem.novoEvento.resources
+C:\Users\hellysson.HOME\Documents\Visual Studio 2008\Projects\TV-Totem\TV-Totem\obj\Debug\TV_Totem.image.resources
+C:\Users\hellysson.HOME\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\bin\Debug\DadosDataSet.Designer.vb
+C:\Users\hellysson.HOME\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\bin\Debug\DadosDataSet.xsc
+C:\Users\hellysson.HOME\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\bin\Debug\DadosDataSet.xsd
+C:\Users\hellysson.HOME\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\bin\Debug\DadosDataSet.xss
+C:\Users\hellysson.HOME\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\bin\Debug\TV-Totem.exe.config
+C:\Users\hellysson.HOME\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\bin\Debug\TV-Totem.exe
+C:\Users\hellysson.HOME\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\bin\Debug\TV-Totem.pdb
+C:\Users\hellysson.HOME\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\bin\Debug\TV-Totem.xml
+C:\Users\hellysson.HOME\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV_Totem.cadEventoNome.resources
+C:\Users\hellysson.HOME\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV_Totem.cadSalaNome.resources
+C:\Users\hellysson.HOME\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV_Totem.Resources.resources
+C:\Users\hellysson.HOME\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV_Totem.novoEvento.resources
+C:\Users\hellysson.HOME\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV_Totem.Principal.resources
+C:\Users\hellysson.HOME\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV-Totem.vbproj.GenerateResource.Cache
+C:\Users\hellysson.HOME\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV-Totem.exe
+C:\Users\hellysson.HOME\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV-Totem.xml
+C:\Users\hellysson.HOME\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV-Totem.pdb
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\bin\Debug\Dados.accdb
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\bin\Debug\TV-Totem.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\bin\Debug\TV-Totem.exe
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\bin\Debug\TV-Totem.pdb
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\bin\Debug\TV-Totem.xml
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV_Totem.cadEventoNome.resources
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV_Totem.cadSalaNome.resources
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV_Totem.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV_Totem.novoEvento.resources
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV_Totem.Principal.resources
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV-Totem.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV-Totem.exe
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV-Totem.xml
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV-Totem.pdb
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV-Totem.vbprojResolveAssemblyReference.cache
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\bin\Debug\Dados.accdb
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\bin\Debug\TV-Totem.exe.config
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\bin\Debug\TV-Totem.exe
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\bin\Debug\TV-Totem.pdb
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\bin\Debug\TV-Totem.xml
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV_Totem.cadEventoNome.resources
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV_Totem.cadSalaNome.resources
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV_Totem.ImagemTotem1.resources
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV_Totem.Resources.resources
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV_Totem.novoEvento.resources
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV_Totem.Principal.resources
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV-Totem.vbproj.GenerateResource.Cache
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV-Totem.exe
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV-Totem.xml
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV-Totem.pdb
+C:\Users\UniAlgar0025\Desktop\TV-Totem\TV-Totem\bin\Debug\TV-Totem.exe.config
+C:\Users\UniAlgar0025\Desktop\TV-Totem\TV-Totem\obj\Debug\TV-Totem.exe
+C:\Users\UniAlgar0025\Desktop\TV-Totem\TV-Totem\obj\Debug\TV-Totem.xml
+C:\Users\UniAlgar0025\Desktop\TV-Totem\TV-Totem\obj\Debug\TV-Totem.pdb
+C:\Users\UniAlgar0025\Desktop\TV-Totem\TV-Totem\bin\Debug\Dados.accdb
+C:\Users\UniAlgar0025\Desktop\TV-Totem\TV-Totem\bin\Debug\TV-Totem.exe
+C:\Users\UniAlgar0025\Desktop\TV-Totem\TV-Totem\bin\Debug\TV-Totem.pdb
+C:\Users\UniAlgar0025\Desktop\TV-Totem\TV-Totem\bin\Debug\TV-Totem.xml
+C:\Users\UniAlgar0025\Desktop\TV-Totem\TV-Totem\obj\Debug\TV-Totem.vbprojResolveAssemblyReference.cache
+C:\Users\UniAlgar0025\Desktop\TV-Totem\TV-Totem\obj\Debug\TV_Totem.cadEventoNome.resources
+C:\Users\UniAlgar0025\Desktop\TV-Totem\TV-Totem\obj\Debug\TV_Totem.cadSalaNome.resources
+C:\Users\UniAlgar0025\Desktop\TV-Totem\TV-Totem\obj\Debug\TV_Totem.ImagemTotem1.resources
+C:\Users\UniAlgar0025\Desktop\TV-Totem\TV-Totem\obj\Debug\TV_Totem.Resources.resources
+C:\Users\UniAlgar0025\Desktop\TV-Totem\TV-Totem\obj\Debug\TV_Totem.novoEvento.resources
+C:\Users\UniAlgar0025\Desktop\TV-Totem\TV-Totem\obj\Debug\TV_Totem.Principal.resources
+C:\Users\UniAlgar0025\Desktop\TV-Totem\TV-Totem\obj\Debug\TV-Totem.vbproj.GenerateResource.Cache
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV-Totem.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV_Totem.ImagemTotem1.resources
+C:\Users\hellysson.UNIALGAR.000\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\bin\Debug\Dados.accdb
+C:\Users\hellysson.UNIALGAR.000\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\bin\Debug\TV-Totem.exe.config
+C:\Users\hellysson.UNIALGAR.000\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\bin\Debug\TV-Totem.exe
+C:\Users\hellysson.UNIALGAR.000\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\bin\Debug\TV-Totem.pdb
+C:\Users\hellysson.UNIALGAR.000\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\bin\Debug\TV-Totem.xml
+C:\Users\hellysson.UNIALGAR.000\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV_Totem.cadEventoNome.resources
+C:\Users\hellysson.UNIALGAR.000\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV_Totem.cadSalaNome.resources
+C:\Users\hellysson.UNIALGAR.000\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV_Totem.enviarTV.resources
+C:\Users\hellysson.UNIALGAR.000\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV_Totem.ImagemTotem1.resources
+C:\Users\hellysson.UNIALGAR.000\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV_Totem.Resources.resources
+C:\Users\hellysson.UNIALGAR.000\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV_Totem.novoEvento.resources
+C:\Users\hellysson.UNIALGAR.000\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV_Totem.Principal.resources
+C:\Users\hellysson.UNIALGAR.000\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV-Totem.vbproj.GenerateResource.Cache
+C:\Users\hellysson.UNIALGAR.000\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV-Totem.exe
+C:\Users\hellysson.UNIALGAR.000\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV-Totem.xml
+C:\Users\hellysson.UNIALGAR.000\Documents\Visual Studio 2012\Projects\TV-Totem\TV-Totem\obj\Debug\TV-Totem.pdb

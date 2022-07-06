@@ -1,0 +1,11 @@
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\UniAlgar\UniAlgar\bin\Debug\UniAlgar.exe.config
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\UniAlgar\UniAlgar\bin\Debug\UniAlgar.exe
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\UniAlgar\UniAlgar\bin\Debug\UniAlgar.pdb
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\UniAlgar\UniAlgar\bin\Debug\UniAlgar.xml
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\UniAlgar\UniAlgar\obj\Debug\UniAlgar.Acesso.resources
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\UniAlgar\UniAlgar\obj\Debug\UniAlgar.Logon.resources
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\UniAlgar\UniAlgar\obj\Debug\UniAlgar.Resources.resources
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\UniAlgar\UniAlgar\obj\Debug\UniAlgar.vbproj.GenerateResource.Cache
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\UniAlgar\UniAlgar\obj\Debug\UniAlgar.exe
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\UniAlgar\UniAlgar\obj\Debug\UniAlgar.xml
+C:\Users\UniAlgar0025\Documents\Visual Studio 2012\Projects\UniAlgar\UniAlgar\obj\Debug\UniAlgar.pdb
