@@ -1,0 +1,21 @@
+c:\users\usuario\documents\visual studio 2012\Projects\SistemaChamados\SistemaChamados\bin\Debug\SistemaChamados.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\SistemaChamados\SistemaChamados\bin\Debug\SistemaChamados.exe
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\SistemaChamados\SistemaChamados\bin\Debug\SistemaChamados.pdb
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\SistemaChamados\SistemaChamados\bin\Debug\SistemaChamados.xml
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\SistemaChamados\SistemaChamados\obj\Debug\SistemaChamados.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\SistemaChamados\SistemaChamados\obj\Debug\SistemaChamados.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\SistemaChamados\SistemaChamados\obj\Debug\SistemaChamados.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\SistemaChamados\SistemaChamados\obj\Debug\SistemaChamados.exe
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\SistemaChamados\SistemaChamados\obj\Debug\SistemaChamados.xml
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\SistemaChamados\SistemaChamados\obj\Debug\SistemaChamados.pdb
+C:\SistemaChamados\SistemaChamados\bin\Debug\SistemaChamados.exe.config
+C:\SistemaChamados\SistemaChamados\bin\Debug\SistemaChamados.exe
+C:\SistemaChamados\SistemaChamados\bin\Debug\SistemaChamados.pdb
+C:\SistemaChamados\SistemaChamados\bin\Debug\SistemaChamados.xml
+C:\SistemaChamados\SistemaChamados\obj\Debug\SistemaChamados.Form1.resources
+C:\SistemaChamados\SistemaChamados\obj\Debug\SistemaChamados.Resources.resources
+C:\SistemaChamados\SistemaChamados\obj\Debug\SistemaChamados.vbproj.GenerateResource.cache
+C:\SistemaChamados\SistemaChamados\obj\Debug\SistemaChamados.exe
+C:\SistemaChamados\SistemaChamados\obj\Debug\SistemaChamados.xml
+C:\SistemaChamados\SistemaChamados\obj\Debug\SistemaChamados.pdb
+C:\SistemaChamados\SistemaChamados\obj\Debug\SistemaChamados.vbprojResolveAssemblyReference.cache
